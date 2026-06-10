@@ -1,0 +1,10 @@
+[
+    {
+        "id": "Prompt_001",
+        "response_text": "The data format and structure are correct and aligned with the guidelines."
+    },
+    {
+        "id": "Prompt_002",
+        "response_text": "Here is a very long response that does not include the required words, so it should receive a lower score."
+    }
+]
