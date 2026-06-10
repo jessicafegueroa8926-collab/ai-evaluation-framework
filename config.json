@@ -1,0 +1,7 @@
+{
+    "rubric": {
+        "max_length": 500,
+        "required_keywords": ["format", "structure", "data"],
+        "penalize_hallucinations": true
+    }
+}
